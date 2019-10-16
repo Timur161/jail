@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quest Entering in haty</string>
+    <string name="vxodvhaty">Вы вошли в хату,растерались и не знаете что скзать.На тебя смотрят зеки и говорят "Что молчишь, язык проглотил!!!"</string>
+    <string name="z1_vxodvhaty">Хера вылупились,петушары</string>
+    <string name="z2_vxodvhaty">Здраствуйте!</string>
+    <string name="z3_vxodvhaty">АУЕ,вечер в хату</string>
+    <string name="cock">Вас опустили,вы ПEТУХ!</string>
+    <string name="restart">Начни заново,обрадуй уголовников)</string>
+</resources>
